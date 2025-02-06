@@ -1,2 +1,2 @@
-# Stefan Karl M. Chan
+# Stefan Karl M. Chan BSIT
 Introduction to Node.js and Express.js
